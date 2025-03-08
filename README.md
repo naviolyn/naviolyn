@@ -29,6 +29,11 @@ My DTI rank? <b>Runaway Queen</b>.
 
 <div align="center">
 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=naviolyn&theme=dracula&border_radius=15&card_width=525&card_height=190&currStreakLabel=FD84A5&background=FFFDF0&sideLabels=FD84A5&currStreakNum=C2426A&sideNums=FD84A5&ring=C2426A&stroke=FCC7D700&fire=C2426A&dates=FD84A5BC" alt="GitHub Streak" /></a>
-<div style="height:10px;"></div>
+<div style="height:10px;">.</div>
 <img src="https://github-profile-trophy.vercel.app/?username=naviolyn&theme=dark_lover&no-bg=true&margin-w=15&margin-h=15&column=4&rank=S,AAA,A,B,C"/>
+<div style="height:10px;">.</div>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=naviolyn&layout=compact&bg_color=fffaf0&title_color=dd5577&text_color=dd5577&icon_color=dd5577&border_color=e4e2e2&hide_border=false">
+
+
+
 </div>
