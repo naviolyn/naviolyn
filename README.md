@@ -1,4 +1,4 @@
-<div align="left" style="height:fit-content;">
+<div align="left" style="height:fit-content; display: flex;">
   <img src="https://media.nga.gov/iiif/1c3a0c23-3926-4475-b9b8-59cb1d72b410/full/!588,600/0/default.jpg" height="200" &#x3c;="" a="" align="left">
   <h1><img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExOXF4amp4NGp4OXZvbHF2eG9uZzcxbXpnYXg1N3QxcGhtcXpkb3Y1ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/5UbuuUrwlNuJ8I7ROM/giphy.gif" width="32px"> Hi! I'm Nancy <img src="https://media.giphy.com/media/X2JtPo47cCMdCaUbVs/giphy.gif?cid=ecf05e47qbzi3etc240t3bdm6g4u0uu4elc1mwgqk9q1obqx&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="30px"></h1>
 
